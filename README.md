@@ -13,11 +13,11 @@ Create a dashboard in Power BI that reflects all relevant Key Performance Indica
 
 After cleaning and modelling the data to a star schema, my solution was to create a dashboard that answered the KPIs, focusing on the following points:
 
-🟢Overall calls answered, abandoned, and resolved
-🟢Calls sorted by topic
-🟢Call volume per month
-🟢Customer satisfaction rating
-🟢Agent’s performance quadrant
+🟢 Overall calls answered, abandoned, and resolved  
+🟢 Calls sorted by topic  
+🟢 Call volume per month  
+🟢 Customer satisfaction rating  
+🟢 Agent’s performance quadrant  
 
 As part of my PwC Virtual Internship, I created a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. 
 
